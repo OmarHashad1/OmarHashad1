@@ -1,0 +1,174 @@
+<!-- ====================== BANNER HEADER ====================== -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f0a,50:2d1b10,100:1a0f0a&height=220&section=header&text=Omar%20Hashad&fontColor=f5f0eb&fontSize=60&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Backend&descAlignY=58&descAlign=50&descSize=18&animation=fadeIn" alt="Omar Hashad banner" />
+
+<!-- ====================== TYPING SVG ====================== -->
+<a href="https://github.com/OmarHashad1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C9A882&center=true&vCenter=true&width=520&height=60&lines=Building+Scalable+APIs;Full-Stack+Engineer;AI+Backend+Enthusiast;TypeScript+%26+Node.js" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ====================== ABOUT ME ====================== -->
+<div align="center">
+
+## 🪵 About Me
+
+</div>
+
+```ts
+const omar = {
+  role:       "Full-Stack Engineer → AI Backend Engineer",
+  company:    "Cloudjet Innovations",
+  education:  "B.S. Computer Science @ BUE  (GPA 3.9)",
+  focus:      ["AI Backend", "Fintech", "Proptech"],
+};
+```
+
+- 🎓 **3rd-year Computer Science** student @ **British University in Egypt (BUE)** — GPA **3.9**
+- 💼 **Full-Stack Engineer** at **Cloudjet Innovations**
+- ⚡ Optimized **8+ database queries** for **15–25% faster** response times
+- 🚀 Built **15+ PHP RESTful APIs**, cutting latency by **60%**
+- 🔮 Passionate about **AI Backend**, **fintech**, and **proptech**
+
+<br>
+
+<!-- ====================== TECH STACK ====================== -->
+<div align="center">
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,mysql&theme=dark" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="backend" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" alt="databases" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker&theme=dark" alt="tools" />
+
+</div>
+
+<br>
+
+<!-- ====================== PROJECTS ====================== -->
+<div align="center">
+
+## 📦 Projects
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://github.com/OmarHashad1/HireHub"><b>HireHub</b></a></td>
+      <td align="left">Job board with AI résumé scanning &amp; ATS scoring</td>
+      <td align="left"><code>TS</code> <code>Node</code> <code>MongoDB</code> <code>OpenAI</code> <code>Redis</code></td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/OmarHashad1/Roomify"><b>Roomify</b></a></td>
+      <td align="left">Full-stack hotel booking platform</td>
+      <td align="left"><code>React</code> <code>Node</code> <code>MongoDB</code> <code>GSAP</code></td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/OmarHashad1/Nexora"><b>Nexora</b></a></td>
+      <td align="left">E-commerce with real-time cart &amp; NextAuth</td>
+      <td align="left"><code>Next.js</code> <code>TS</code> <code>TanStack Query</code> <code>Zod</code></td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/OmarHashad1/Yadawity"><b>Yadawity</b></a></td>
+      <td align="left">Digital art gallery &amp; auction platform</td>
+      <td align="left"><code>PHP</code> <code>MySQL</code> <code>JS</code></td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/OmarHashad1/Restful-Auth-API"><b>Restful Auth API</b></a></td>
+      <td align="left">JWT + Google OAuth2 + Argon2 auth system</td>
+      <td align="left"><code>Node</code> <code>Express</code> <code>MongoDB</code></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br>
+
+<!-- ====================== GITHUB STATS ====================== -->
+<div align="center">
+
+## 📊 GitHub Stats
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=OmarHashad1&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=c9a882&text_color=f5f0eb&icon_color=c9a882&border_color=2d1b10" alt="GitHub stats" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarHashad1&hide_border=false&background=0d0d0d&ring=c9a882&fire=c9a882&currStreakLabel=c9a882&sideLabels=f5f0eb&currStreakNum=f5f0eb&sideNums=f5f0eb&dates=f5f0eb&stroke=2d1b10&border=2d1b10" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHashad1&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=c9a882&text_color=f5f0eb&icon_color=c9a882&border_color=2d1b10" alt="Top languages" />
+
+</div>
+
+<br>
+
+<!-- ====================== CONTACT ====================== -->
+<div align="center">
+
+## 📬 Contact
+
+<a href="mailto:omarhashad88@gmail.com">
+  <img src="https://img.shields.io/badge/Email-omarhashad88@gmail.com-c9a882?style=for-the-badge&logo=gmail&logoColor=f5f0eb&labelColor=1a0f0a" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/omar-hashad">
+  <img src="https://img.shields.io/badge/LinkedIn-omar--hashad-c9a882?style=for-the-badge&logo=linkedin&logoColor=f5f0eb&labelColor=1a0f0a" alt="LinkedIn" />
+</a>
+<a href="https://github.com/OmarHashad1">
+  <img src="https://img.shields.io/badge/GitHub-OmarHashad1-c9a882?style=for-the-badge&logo=github&logoColor=f5f0eb&labelColor=1a0f0a" alt="GitHub" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ====================== FOOTER / SNAKE ====================== -->
+<div align="center">
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarHashad1/OmarHashad1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarHashad1/OmarHashad1/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/OmarHashad1/OmarHashad1/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=OmarHashad1&label=Profile%20Views&color=c9a882&style=for-the-badge&labelColor=1a0f0a" alt="Profile views" />
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f0a,50:2d1b10,100:1a0f0a&height=120&section=footer" alt="footer" />
+
+</div>
