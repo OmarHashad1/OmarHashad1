@@ -169,11 +169,6 @@ const omar: Engineer = {
 <!-- ====================== FOOTER / CONTRIBUTIONS ====================== -->
 <div align="center">
 
-## 📈 Contribution Graph
-
-<img width="80%" src="https://ghchart.rshah.org/c9a882/OmarHashad1" alt="Omar Hashad's contribution chart" />
-
-<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f0a,50:2d1b10,100:1a0f0a&height=120&section=footer" alt="footer" />
 
