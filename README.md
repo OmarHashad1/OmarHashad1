@@ -19,8 +19,6 @@
 
 </div>
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation" />
-
 ```ts
 const omar: Engineer = {
   title:     "AI Backend Engineer",
@@ -36,14 +34,11 @@ const omar: Engineer = {
 - ⚡ &nbsp;I build **scalable, low-latency APIs** & obsess over query performance
 - 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **databases** & **system design**
 
-<br clear="right" />
-
-<img src="https://img.shields.io/badge/Focus-AI%20Backend-c9a882?style=flat-square&labelColor=1a0f0a" alt="focus" />
-<img src="https://img.shields.io/badge/Domain-Fintech-c9a882?style=flat-square&labelColor=1a0f0a" alt="fintech" />
-<img src="https://img.shields.io/badge/Domain-Proptech-c9a882?style=flat-square&labelColor=1a0f0a" alt="proptech" />
-<img src="https://img.shields.io/badge/Learning-LLMs%20%26%20System%20Design-1a0f0a?style=flat-square&labelColor=2d1b10" alt="learning" />
-
 <div align="center">
+
+<img src="https://img.shields.io/badge/Focus-AI%20Backend-c9a882?style=for-the-badge&labelColor=1a0f0a" alt="focus" /> <img src="https://img.shields.io/badge/Fintech-2d1b10?style=for-the-badge&labelColor=1a0f0a" alt="fintech" /> <img src="https://img.shields.io/badge/Proptech-2d1b10?style=for-the-badge&labelColor=1a0f0a" alt="proptech" /> <img src="https://img.shields.io/badge/Learning-LLMs%20%26%20System%20Design-c9a882?style=for-the-badge&labelColor=2d1b10" alt="learning" />
+
+<br><br>
 
 > *"First, solve the problem. Then, write the code."*
 
