@@ -19,9 +19,7 @@
 
 </div>
 
-<table border="0">
-  <tr>
-    <td width="58%" valign="top">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation" />
 
 ```ts
 const omar: Engineer = {
@@ -30,7 +28,6 @@ const omar: Engineer = {
   education: "B.S. Computer Science @ BUE",
   gpa:       3.9,
   focus:     ["AI Backend", "Fintech", "Proptech"],
-  learning:  ["LLMs", "System Design", "Distributed Systems"],
 };
 ```
 
@@ -39,18 +36,12 @@ const omar: Engineer = {
 - ⚡ &nbsp;I build **scalable, low-latency APIs** & obsess over query performance
 - 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **databases** & **system design**
 
-<br>
+<br clear="right" />
 
-<img src="https://img.shields.io/badge/Focus-AI%20Backend-c9a882?style=flat-square&labelColor=1a0f0a" />
-<img src="https://img.shields.io/badge/Domain-Fintech-c9a882?style=flat-square&labelColor=1a0f0a" />
-<img src="https://img.shields.io/badge/Domain-Proptech-c9a882?style=flat-square&labelColor=1a0f0a" />
-
-  </td>
-    <td width="42%" valign="center" align="center">
-      <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation" />
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Focus-AI%20Backend-c9a882?style=flat-square&labelColor=1a0f0a" alt="focus" />
+<img src="https://img.shields.io/badge/Domain-Fintech-c9a882?style=flat-square&labelColor=1a0f0a" alt="fintech" />
+<img src="https://img.shields.io/badge/Domain-Proptech-c9a882?style=flat-square&labelColor=1a0f0a" alt="proptech" />
+<img src="https://img.shields.io/badge/Learning-LLMs%20%26%20System%20Design-1a0f0a?style=flat-square&labelColor=2d1b10" alt="learning" />
 
 <div align="center">
 
@@ -67,22 +58,13 @@ const omar: Engineer = {
 
 </div>
 
-<table border="0">
-  <tr>
-    <td width="64" valign="top" align="center">
-      <img width="46" src="https://skillicons.dev/icons?i=php" alt="php" />
-    </td>
-    <td valign="top">
-      <b>Full-Stack Engineer</b> &nbsp;<img src="https://img.shields.io/badge/Internship-c9a882?style=flat-square&labelColor=1a0f0a" alt="internship" /><br>
-      <i>Cloudjet Innovations</i> &nbsp;·&nbsp; <code>2024 – 2025</code>
-      <ul>
-        <li>🚀 Built <b>15+ PHP RESTful APIs</b>, cutting endpoint latency by <b>60%</b></li>
-        <li>⚡ Optimized <b>8+ database queries</b> for <b>15–25% faster</b> response times</li>
-        <li>🤝 Collaborated across the stack to ship production features end-to-end</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### <img width="22" src="https://skillicons.dev/icons?i=php" alt="php" /> &nbsp; Full-Stack Engineer &nbsp; <img src="https://img.shields.io/badge/Internship-c9a882?style=flat-square&labelColor=1a0f0a" alt="internship" />
+
+**Cloudjet Innovations** &nbsp;·&nbsp; `2024 – 2025`
+
+- 🚀 &nbsp;Built **15+ PHP RESTful APIs**, cutting endpoint latency by **60%**
+- ⚡ &nbsp;Optimized **8+ database queries** for **15–25% faster** response times
+- 🤝 &nbsp;Collaborated across the stack to ship production features end-to-end
 
 <br>
 
