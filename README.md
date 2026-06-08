@@ -143,18 +143,7 @@ const omar: Engineer = {
 
 ## 📊 GitHub Stats
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=OmarHashad1&show_icons=true&hide_border=false&cache_seconds=1800&bg_color=0d0d0d&title_color=c9a882&text_color=f5f0eb&icon_color=c9a882&border_color=2d1b10" alt="GitHub stats" />
-    </td>
-    <td>
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarHashad1&hide_border=false&background=0d0d0d&ring=c9a882&fire=c9a882&currStreakLabel=c9a882&sideLabels=f5f0eb&currStreakNum=f5f0eb&sideNums=f5f0eb&dates=f5f0eb&stroke=2d1b10&border=2d1b10" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHashad1&layout=compact&hide_border=false&cache_seconds=1800&bg_color=0d0d0d&title_color=c9a882&text_color=f5f0eb&icon_color=c9a882&border_color=2d1b10" alt="Top languages" />
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarHashad1&hide_border=false&background=0d0d0d&ring=c9a882&fire=c9a882&currStreakLabel=c9a882&sideLabels=f5f0eb&currStreakNum=f5f0eb&sideNums=f5f0eb&dates=f5f0eb&stroke=2d1b10&border=2d1b10" alt="GitHub streak" />
 
 </div>
 
