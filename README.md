@@ -166,16 +166,12 @@ const omar: Engineer = {
 
 <br>
 
-<!-- ====================== FOOTER / SNAKE ====================== -->
+<!-- ====================== FOOTER / CONTRIBUTIONS ====================== -->
 <div align="center">
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarHashad1/OmarHashad1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarHashad1/OmarHashad1/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/OmarHashad1/OmarHashad1/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img width="80%" src="https://ghchart.rshah.org/c9a882/OmarHashad1" alt="Omar Hashad's contribution chart" />
 
 <br><br>
 
