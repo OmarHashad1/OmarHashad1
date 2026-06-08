@@ -51,15 +51,17 @@ const omar: Engineer = {
 
 ## 💼 Experience
 
-</div>
-
-#### <img width="22" src="https://skillicons.dev/icons?i=php" alt="php" /> &nbsp; Full-Stack Engineer &nbsp; <img src="https://img.shields.io/badge/Internship-c9a882?style=flat-square&labelColor=1a0f0a" alt="internship" />
+<img width="22" src="https://skillicons.dev/icons?i=php" alt="php" /> &nbsp; **Full-Stack Engineer** &nbsp; <img src="https://img.shields.io/badge/Internship-c9a882?style=flat-square&labelColor=1a0f0a" alt="internship" />
 
 **Cloudjet Innovations** &nbsp;·&nbsp; `2024 – 2025`
 
-- 🚀 &nbsp;Built **15+ PHP RESTful APIs**, cutting endpoint latency by **60%**
-- ⚡ &nbsp;Optimized **8+ database queries** for **15–25% faster** response times
-- 🤝 &nbsp;Collaborated across the stack to ship production features end-to-end
+🚀 &nbsp;Built **15+ PHP RESTful APIs**, cutting endpoint latency by **60%**
+
+⚡ &nbsp;Optimized **8+ database queries** for **15–25% faster** response times
+
+🤝 &nbsp;Collaborated across the stack to ship production features end-to-end
+
+</div>
 
 <br>
 
@@ -154,15 +156,11 @@ const omar: Engineer = {
 
 ## 📬 Contact
 
-<a href="mailto:omarhashad88@gmail.com">
-  <img src="https://img.shields.io/badge/Email-omarhashad88@gmail.com-c9a882?style=for-the-badge&logo=gmail&logoColor=f5f0eb&labelColor=1a0f0a" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/omar-hashad">
-  <img src="https://img.shields.io/badge/LinkedIn-omar--hashad-c9a882?style=for-the-badge&logo=linkedin&logoColor=f5f0eb&labelColor=1a0f0a" alt="LinkedIn" />
-</a>
-<a href="https://github.com/OmarHashad1">
-  <img src="https://img.shields.io/badge/GitHub-OmarHashad1-c9a882?style=for-the-badge&logo=github&logoColor=f5f0eb&labelColor=1a0f0a" alt="GitHub" />
-</a>
+<a href="mailto:omarhashad88@gmail.com"><img src="https://img.shields.io/badge/Email-omarhashad88@gmail.com-c9a882?style=for-the-badge&logo=gmail&logoColor=f5f0eb&labelColor=1a0f0a" alt="Email" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/omar-hashad"><img src="https://img.shields.io/badge/LinkedIn-omar--hashad-c9a882?style=for-the-badge&logo=linkedin&logoColor=f5f0eb&labelColor=1a0f0a" alt="LinkedIn" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/OmarHashad1"><img src="https://img.shields.io/badge/GitHub-OmarHashad1-c9a882?style=for-the-badge&logo=github&logoColor=f5f0eb&labelColor=1a0f0a" alt="GitHub" /></a>
 
 </div>
 
@@ -178,10 +176,6 @@ const omar: Engineer = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarHashad1/OmarHashad1/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/OmarHashad1/OmarHashad1/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=OmarHashad1&label=Profile%20Views&color=c9a882&style=for-the-badge&labelColor=1a0f0a" alt="Profile views" />
 
 <br><br>
 
