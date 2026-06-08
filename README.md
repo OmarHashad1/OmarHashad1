@@ -1,11 +1,11 @@
 <!-- ====================== BANNER HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f0a,50:2d1b10,100:1a0f0a&height=220&section=header&text=Omar%20Hashad&fontColor=f5f0eb&fontSize=60&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Backend&descAlignY=58&descAlign=50&descSize=18&animation=fadeIn" alt="Omar Hashad banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f0a,50:2d1b10,100:1a0f0a&height=220&section=header&text=Omar%20Hashad&fontColor=f5f0eb&fontSize=60&fontAlignY=38&desc=AI%20Backend%20Engineer&descAlignY=58&descAlign=50&descSize=20&animation=fadeIn" alt="Omar Hashad banner" />
 
 <!-- ====================== TYPING SVG ====================== -->
 <a href="https://github.com/OmarHashad1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C9A882&center=true&vCenter=true&width=520&height=60&lines=Building+Scalable+APIs;Full-Stack+Engineer;AI+Backend+Enthusiast;TypeScript+%26+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C9A882&center=true&vCenter=true&width=520&height=60&lines=AI+Backend+Engineer;Building+Scalable+APIs;Full-Stack+Engineer;TypeScript+%26+Node.js" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,20 +19,70 @@
 
 </div>
 
+<table border="0">
+  <tr>
+    <td width="58%" valign="top">
+
 ```ts
-const omar = {
-  role:       "Full-Stack Engineer → AI Backend Engineer",
-  company:    "Cloudjet Innovations",
-  education:  "B.S. Computer Science @ BUE  (GPA 3.9)",
-  focus:      ["AI Backend", "Fintech", "Proptech"],
+const omar: Engineer = {
+  title:     "AI Backend Engineer",
+  location:  "Egypt 🇪🇬",
+  education: "B.S. Computer Science @ BUE",
+  gpa:       3.9,
+  focus:     ["AI Backend", "Fintech", "Proptech"],
+  learning:  ["LLMs", "System Design", "Distributed Systems"],
 };
 ```
 
-- 🎓 **3rd-year Computer Science** student @ **British University in Egypt (BUE)** — GPA **3.9**
-- 💼 **Full-Stack Engineer** at **Cloudjet Innovations**
-- ⚡ Optimized **8+ database queries** for **15–25% faster** response times
-- 🚀 Built **15+ PHP RESTful APIs**, cutting latency by **60%**
-- 🔮 Passionate about **AI Backend**, **fintech**, and **proptech**
+- 🎓 &nbsp;**3rd-year Computer Science** student @ **BUE** — GPA **3.9**
+- 🤖 &nbsp;Transitioning into **AI Backend Engineering**
+- ⚡ &nbsp;I build **scalable, low-latency APIs** & obsess over query performance
+- 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **databases** & **system design**
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-AI%20Backend-c9a882?style=flat-square&labelColor=1a0f0a" />
+<img src="https://img.shields.io/badge/Domain-Fintech-c9a882?style=flat-square&labelColor=1a0f0a" />
+<img src="https://img.shields.io/badge/Domain-Proptech-c9a882?style=flat-square&labelColor=1a0f0a" />
+
+  </td>
+    <td width="42%" valign="center" align="center">
+      <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+
+</div>
+
+<br>
+
+<!-- ====================== EXPERIENCE ====================== -->
+<div align="center">
+
+## 💼 Experience
+
+</div>
+
+<table border="0">
+  <tr>
+    <td width="64" valign="top" align="center">
+      <img width="46" src="https://skillicons.dev/icons?i=php" alt="php" />
+    </td>
+    <td valign="top">
+      <b>Full-Stack Engineer</b> &nbsp;<img src="https://img.shields.io/badge/Internship-c9a882?style=flat-square&labelColor=1a0f0a" alt="internship" /><br>
+      <i>Cloudjet Innovations</i> &nbsp;·&nbsp; <code>2024 – 2025</code>
+      <ul>
+        <li>🚀 Built <b>15+ PHP RESTful APIs</b>, cutting endpoint latency by <b>60%</b></li>
+        <li>⚡ Optimized <b>8+ database queries</b> for <b>15–25% faster</b> response times</li>
+        <li>🤝 Collaborated across the stack to ship production features end-to-end</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -119,7 +169,7 @@ const omar = {
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=OmarHashad1&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=c9a882&text_color=f5f0eb&icon_color=c9a882&border_color=2d1b10" alt="GitHub stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=OmarHashad1&show_icons=true&hide_border=false&cache_seconds=1800&bg_color=0d0d0d&title_color=c9a882&text_color=f5f0eb&icon_color=c9a882&border_color=2d1b10" alt="GitHub stats" />
     </td>
     <td>
       <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarHashad1&hide_border=false&background=0d0d0d&ring=c9a882&fire=c9a882&currStreakLabel=c9a882&sideLabels=f5f0eb&currStreakNum=f5f0eb&sideNums=f5f0eb&dates=f5f0eb&stroke=2d1b10&border=2d1b10" alt="GitHub streak" />
@@ -127,7 +177,7 @@ const omar = {
   </tr>
 </table>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHashad1&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=c9a882&text_color=f5f0eb&icon_color=c9a882&border_color=2d1b10" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHashad1&layout=compact&hide_border=false&cache_seconds=1800&bg_color=0d0d0d&title_color=c9a882&text_color=f5f0eb&icon_color=c9a882&border_color=2d1b10" alt="Top languages" />
 
 </div>
 
