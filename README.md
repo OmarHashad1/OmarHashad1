@@ -29,8 +29,6 @@ const omar: Engineer = {
 ```
 
 - 🎓 &nbsp;**3rd-year Computer Science** student @ **BUE** 
-- 🤖 &nbsp;Transitioning into **AI Backend Engineering**
-- ⚡ &nbsp;I build **scalable, low-latency APIs** & obsess over query performance
 - 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **databases** & **system design**
 
 <div align="center">
