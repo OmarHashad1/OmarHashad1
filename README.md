@@ -77,15 +77,19 @@ const omar: Engineer = {
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="backend" />
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" alt="databases" />
 
+**DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="devops" />
+
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma&theme=dark" alt="tools" />
 
 </div>
 
@@ -107,8 +111,13 @@ const omar: Engineer = {
   <tbody>
     <tr>
       <td align="left"><a href="https://github.com/OmarHashad1/HireHub"><b>HireHub</b></a></td>
-      <td align="left">Job board with AI résumé scanning &amp; ATS scoring</td>
-      <td align="left"><code>TS</code> <code>Node</code> <code>MongoDB</code> <code>OpenAI</code> <code>Redis</code></td>
+      <td align="left">Job board REST API with admin-gated company verification, AI résumé scoring &amp; ATS matching</td>
+      <td align="left"><code>TS</code> <code>Express</code> <code>MongoDB</code> <code>Redis</code> <code>Gemini AI</code> <code>JWT</code> <code>AWS S3</code></td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/OmarHashad1/Tijara"><b>Tijara</b></a></td>
+      <td align="left">Modular backend REST API with a generic repository pattern &amp; runtime-validated config</td>
+      <td align="left"><code>NestJS</code> <code>TS</code> <code>MongoDB</code> <code>Redis</code> <code>JWT</code></td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/OmarHashad1/Roomify"><b>Roomify</b></a></td>
