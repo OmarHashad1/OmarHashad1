@@ -24,11 +24,14 @@ const omar: Engineer = {
   title:     "AI Backend Engineer",
   location:  "Egypt 🇪🇬",
   education: "B.S. Computer Science @ BUE",
+  gpa:       3.9,
   focus:     ["AI Backend", "Fintech", "Proptech"],
 };
 ```
 
-- 🎓 &nbsp;**3rd-year Computer Science** student @ **BUE** 
+- 🎓 &nbsp;**3rd-year Computer Science** student @ **BUE** — GPA **3.9**
+- 🤖 &nbsp;Transitioning into **AI Backend Engineering**
+- ⚡ &nbsp;I build **scalable, low-latency APIs** & obsess over query performance
 - 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **databases** & **system design**
 
 <div align="center">
